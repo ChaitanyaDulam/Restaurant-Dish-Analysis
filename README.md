@@ -32,8 +32,3 @@ The dataset contains the following attributes:
 - Price vs. cooking cost profitability analysis
 - Distribution of dish types and seasonal availability
 - Rating trends by dish type and cuisine
-
-## Data Set
-https://drive.google.com/file/d/1-aaa8kFt-lWVhV-J-T7CoJjoNx9XzSGv 
-
-
